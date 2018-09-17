@@ -1,5 +1,8 @@
 _repo: Bessie-on-Her-Travels_52214
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 52214-h/images/cover.jpg
 creator:
   author:
     agent_name: Mathews, Joanna H. (Joanna Hooe)
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '2089'
     url: http://www.gutenberg.org/2009/agents/2089
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52214#Bessie-on-Her-Travels
 gutenberg_issued: '2016-06-01'
 gutenberg_type: Text
 identifiers:
