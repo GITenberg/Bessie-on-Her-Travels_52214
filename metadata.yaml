@@ -1,0 +1,31 @@
+_repo: Bessie-on-Her-Travels_52214
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Mathews, Joanna H. (Joanna Hooe)
+    birthdate: 1849
+    deathdate: 1901
+    gutenberg_agent_id: '2089'
+    url: http://www.gutenberg.org/2009/agents/2089
+description: ''
+gutenberg_issued: '2016-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nannies -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Seashore -- Juvenile fiction'
+- !lcsh 'Vacations -- Juvenile fiction'
+- !lcsh 'Railroad travel -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Ocean travel -- Juvenile fiction'
+- !lcsh 'Family -- Juvenile fiction'
+- !lcsh 'Missing children -- Juvenile fiction'
+- GITenberg
+title: Bessie on Her Travels
+url: http://www.gutenberg.org/ebooks/52214
